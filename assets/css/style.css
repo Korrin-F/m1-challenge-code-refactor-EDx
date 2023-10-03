@@ -1,3 +1,6 @@
+/* ----------------------------
+----------- GLOBAL ------------
+---------------------------- */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +11,13 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* ----------------------------
+----------- NAV BAR ------------
+---------------------------- */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -46,9 +56,9 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* ----------------------------
+----------- HERO IMAGE ------------
+---------------------------- */
 
 .hero {
     height: 800px;
@@ -58,6 +68,10 @@ p {
     background-size: cover;
     background-position: center;
 }
+
+/* ----------------------------
+----------- MAIN CONTENT ------------
+---------------------------- */
 
 .float-left {
     float: left;
@@ -129,6 +143,10 @@ p {
     font-size: 36px;
 }
 
+/* ----------------------------
+----------- BENEFITS ------------
+---------------------------- */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,7 +206,9 @@ p {
     max-width: 150px;
 }
 
-
+/* ----------------------------
+----------- FOOTER ------------
+---------------------------- */
 
 .footer {
     padding: 30px;
