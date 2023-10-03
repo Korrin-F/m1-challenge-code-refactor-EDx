@@ -89,7 +89,7 @@ a {
     display: inline-block;
     margin-left: 20px;
 }
-.article {
+.content article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -98,20 +98,10 @@ a {
     color: #ffffff;
 }
 
-.article img {
-    max-height: 200px;
-}
-#search-engine-optimization img {
+.content article img {
     max-height: 200px;
 }
 
-#online-reputation-management img {
-    max-height: 200px;
-}
-
-#social-media-marketing img {
-    max-height: 200px;
-}
 
 h2 {
     margin-bottom: 20px;
